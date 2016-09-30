@@ -49,7 +49,7 @@ import reseau.protocol.ClientItf;
 import reseau.protocol.ServerItf;
 
 
-public class Client implements ClientItf
+public class Client implements ClientItf dd
 {
     ServerItf serv;
     ClientItf addrClient;
